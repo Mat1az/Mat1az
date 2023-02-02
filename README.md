@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-## Tasks
+## To Do
 - [x] Portfolio
 - [x] README Profile
 - [ ] README All Projects
