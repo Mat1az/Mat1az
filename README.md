@@ -3,7 +3,7 @@
 </p>
 
 - :owl: My real name is **Matías** <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f41343a1-461e-4966-a828-392889d3cc77/dawy7f9-c9bd3c1e-89fc-4dab-aecf-39a4378f123a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y0MTM0M2ExLTQ2MWUtNDk2Ni1hODI4LTM5Mjg4OWQzY2M3N1wvZGF3eTdmOS1jOWJkM2MxZS04OWZjLTRkYWItYWVjZi0zOWE0Mzc4ZjEyM2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ojiAsNw_Lt9SiqsJOSLxbykWhy-4gD2cMfb0-ZY3QcA" width="400" align="right"/>
-- :chile: I'm living in **Chile**
+- :chile: I'm from **Chile**
 - :hearts: Hobbies:
   - :desktop_computer: Programming Challenges
   - :pirate_flag: CTF Challenges
