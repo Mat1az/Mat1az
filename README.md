@@ -65,6 +65,6 @@
 <p> 
 
 <div align="center">
-  :heart_eyes: Have a nice day! :wink: <br/>
+  Have a nice day!<br/>
   Mat1az
 </div>
