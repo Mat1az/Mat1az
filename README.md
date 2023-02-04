@@ -13,7 +13,7 @@
 - I can read/write in :ceuta_melilla: & :us_outlying_islands:
 
 ## Stacks
-<table>
+<table align="center">
   <tr>
     <th colspan="6">My Setup</th>
   </tr>
@@ -38,6 +38,8 @@
     <td><img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap,express,mysql" width="192px"/></td>
   </tr>
 </table>
+
+> I'm trying to make an effort to learn one language or framework at a time, until I have a thorough understanding of them.
 
 ## To Do
 - [x] Portfolio
