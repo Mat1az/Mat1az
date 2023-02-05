@@ -44,8 +44,10 @@
 ## To Do
 - [x] Portfolio
 - [x] README Profile
-- [ ] README All Projects
+- [ ] Redux
 - [ ] Learn Java Spring
+- [ ] SASS
+- [ ] README All Projects
 - [ ] Learn QT6
 - [ ] Kubernetes & Docker Courses
 - [ ] PS2 Development Projects
