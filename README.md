@@ -46,6 +46,7 @@
 - [x] Portfolio
 - [ ] README All Projects
 - [ ] Redux
+- [ ] Emotion CSS
 - [ ] Learn Java Spring
 - [ ] SASS
 - [ ] Learn QT6
