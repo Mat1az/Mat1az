@@ -42,12 +42,12 @@
 > I'm trying to make an effort to learn one language or framework at a time, until I have a thorough understanding of them.
 
 ## To Do
-- [x] Portfolio
 - [x] README Profile
+- [x] Portfolio
+- [ ] README All Projects
 - [ ] Redux
 - [ ] Learn Java Spring
 - [ ] SASS
-- [ ] README All Projects
 - [ ] Learn QT6
 - [ ] Kubernetes & Docker Courses
 - [ ] PS2 Development Projects
