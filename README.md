@@ -51,6 +51,7 @@
 - [ ] Learn QT6
 - [ ] Kubernetes & Docker Courses
 - [ ] PS2 Development Projects
+- [ ] Kinect Camera Bukkit Experiments
 - [ ] New Bukkit API Experiments
 
 ## Connect with me
