@@ -48,7 +48,6 @@
 - [ ] Redux
 - [ ] Emotion CSS
 - [ ] Learn Java Spring
-- [ ] SASS
 - [ ] Learn QT6
 - [ ] Kubernetes & Docker Courses
 - [ ] PS2 Development Projects
