@@ -8,7 +8,7 @@
   - :desktop_computer: Programming Challenges
   - :pirate_flag: CTF Challenges
   - :toolbox: Hardware & Soldering
-  - :headphones: Play Drums & Guitar
+  - :headphones: Play Drums
   - :video_game: Videogames
 - I can read/write in :ceuta_melilla: & :us_outlying_islands:
 
@@ -57,15 +57,15 @@
 ## Connect with me
 <p align="center">
   <a href="" >
-    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="Mat1az | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="Mat1az | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp; 
   
   <a href="" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" />
+    <img align="center" alt="Mat1az | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" />
   </a> &nbsp;&nbsp;
 <p> 
 
